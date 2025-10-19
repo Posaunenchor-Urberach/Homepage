@@ -1,0 +1,11 @@
+= Wir wünschen ein frohes neues Jahr
+Christoph Till
+2023-01-01
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: blog, asciidoc
+:idprefix:
+
+image::/image/2023/pic_01_01.jpg[Gruppenbild Kirche, 800]
+
+Der Posaunenchor im Dezember 2022

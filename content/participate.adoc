@@ -1,0 +1,39 @@
+= Mitmachen
+Christoph Till
+2023-02-01
+:jbake-type: page
+:jbake-status: published
+:jbake-tags: page, asciidoc
+:idprefix:
+
+
+
+[cols="a,a", frame=none]
+|===
+| *Mitmachen kann jeder*, der bereits ein Blechblasinstrument spielt  +
+ (oder gespielt hat und wieder einsteigen möchte) oder das Spielen   +
+ neu erlernen möchte.  +
+Angesprochen sind hierbei *Kinder ab 8 Jahren*, aber auch Erwachsene  +
+jeden Alters.  +
+Für alle genannten Interessenten können individuelle Angebote gemäß  +
+der Vorkenntnisse gestaltet werden  +
+   +
+   +
+
+
+
+Bei Interesse wenden sie sich an den Chorleiter  +
+*Michael Hitzel (Chorleiter)*  +
+Telefon: 06074 697715  +
+Mail: M.Hitzel@posaunenchor-urberach.de  +
+Internet: https://www.posaunenchor-urberach.de  +
+
+|image::/img/InstrumenteHolzhausen.svg[Instrumente_Stein_Holshausen, 400]  
+|===
+
+
+
+
+
+
+

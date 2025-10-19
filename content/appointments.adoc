@@ -1,0 +1,50 @@
+= Termine
+Michael Hitzel
+2023-02-01
+:jbake-type: page
+:jbake-status: published
+:jbake-tags: page, asciidoc
+:idprefix:
+
+[width=85]
+|===
+|Datum |Uhrzeit (Treffen) |Veranstaltung
+
+
+|10.08.2025
+|10:00 Uhr (09:00 Uhr)
+|Sommerkirche in Urberach
+
+|19.-21.09.2025
+|
+|Chorfahrt nach Rothenfels
+
+|05.10.2025
+|10:00 Uhr
+|Gottesdienst
+
+|24.10.-26.10.2025
+|
+|Probenwochenende im Gemeindehaus Urberach
+
+|02.11.2025
+|17:00 Uhr (15:45 Uhr)
+|Jubiläumskonzert
+
+|07.12.2024
+|17:30 Uhr (17:15 Uhr)
+|Voraussichtlich Nikolausmarkt
+
+|22.12.2025
+|20:00 Uhr (?)
+|Konzert 'Kerzenhelle wird die Nacht' (Teilnahme angefragt)
+
+|24.12.2025
+|17:00 Uhr (16:30 Uhr)
+|Gottesdienst zu Heiligabend St. Gallus
+
+|28.12.2025
+|17:00 Uhr (16:30 Uhr)
+|Ökumenische Weihancht unter den Sternen auf der Bulau
+
+|===
